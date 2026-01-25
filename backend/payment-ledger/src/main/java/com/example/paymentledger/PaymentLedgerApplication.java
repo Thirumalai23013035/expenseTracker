@@ -16,8 +16,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *   -Dspring.profiles.active=dev
  *   -Dspring.profiles.active=local
  * Do NOT hardcode active profiles in application.yml.
- * If you wish to run on local profile change active: local in application.yml
- * If you wish to run on dev profile change active: dev in application.yml
+ * If u wish to run on local profile change active: local in application.yml
+ * If u wish to run on dev profile change active: dev in application.yml
  * Before pushing code to the repo make sure to revert back any changes u made to active parameter in application.yml
  * This is not recommended, but since we are just starting it is fine to make changes to .yml files
  * So make sure u guys always revert changes u made to properties.yml
