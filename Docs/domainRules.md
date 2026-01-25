@@ -24,7 +24,10 @@
 3. Variables  
    - No abbreviations like `amt`, `bal`
    - Use full names like `amount`, `balance`
-## 
+
+4. Architecture Decision Records (ADR)
+   - NNNN-short-decision-name.md
+##  
 
 ## This project is modular but **not independent**.
 
