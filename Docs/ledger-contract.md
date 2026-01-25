@@ -12,8 +12,7 @@
 ## Prohibited Operations
 - Updating ledger entries
 - Direct balance mutation outside a transaction
- 
-## Rules for Ledger Access
+
 ## Rules for Ledger Access
 
 - The `ledger` package is the single source of truth for all financial state changes.
